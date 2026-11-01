@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "dalang-dict-utils",
+    "imageio-ffmpeg>=0.6.0",
 ]
 
 [dependency-groups]
